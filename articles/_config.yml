@@ -1,0 +1,10 @@
+# reference
+# https://jupyterbook.org/en/stable/customize/config.html
+
+#######################################################################################
+# Book settings
+title: chanheelee's blog
+author: chanheelee-dev
+copyright: "2023"
+logo: ""
+
