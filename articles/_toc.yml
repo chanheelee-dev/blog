@@ -4,6 +4,9 @@ parts:
   - caption: "PART: 작성 완료"
     chapters:
     - file: complete/about_complete.md
+    - file: complete/envs/envs.md
+      sections:
+      - file: complete/envs/r_setting_on_mac/body.md
   - caption: "PART: 작성 중"
     chapters:
     - file: in_progress/about_in_progress.md
